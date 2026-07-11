@@ -2,3 +2,13 @@ C:\Users\Justin\Desktop\Programming Stuff\click\ClickerApp\obj\Debug\net8.0-wind
 C:\Users\Justin\Desktop\Programming Stuff\click\ClickerApp\obj\Debug\net8.0-windows\ClickerApp.AssemblyInfoInputs.cache
 C:\Users\Justin\Desktop\Programming Stuff\click\ClickerApp\obj\Debug\net8.0-windows\ClickerApp.AssemblyInfo.cs
 C:\Users\Justin\Desktop\Programming Stuff\click\ClickerApp\obj\Debug\net8.0-windows\ClickerApp.csproj.CoreCompileInputs.cache
+C:\Users\Justin\Desktop\Programming Stuff\click\ClickerApp\bin\Debug\net8.0-windows\ClickerApp.exe
+C:\Users\Justin\Desktop\Programming Stuff\click\ClickerApp\bin\Debug\net8.0-windows\ClickerApp.deps.json
+C:\Users\Justin\Desktop\Programming Stuff\click\ClickerApp\bin\Debug\net8.0-windows\ClickerApp.runtimeconfig.json
+C:\Users\Justin\Desktop\Programming Stuff\click\ClickerApp\bin\Debug\net8.0-windows\ClickerApp.dll
+C:\Users\Justin\Desktop\Programming Stuff\click\ClickerApp\bin\Debug\net8.0-windows\ClickerApp.pdb
+C:\Users\Justin\Desktop\Programming Stuff\click\ClickerApp\obj\Debug\net8.0-windows\ClickerApp.dll
+C:\Users\Justin\Desktop\Programming Stuff\click\ClickerApp\obj\Debug\net8.0-windows\refint\ClickerApp.dll
+C:\Users\Justin\Desktop\Programming Stuff\click\ClickerApp\obj\Debug\net8.0-windows\ClickerApp.pdb
+C:\Users\Justin\Desktop\Programming Stuff\click\ClickerApp\obj\Debug\net8.0-windows\ClickerApp.genruntimeconfig.cache
+C:\Users\Justin\Desktop\Programming Stuff\click\ClickerApp\obj\Debug\net8.0-windows\ref\ClickerApp.dll

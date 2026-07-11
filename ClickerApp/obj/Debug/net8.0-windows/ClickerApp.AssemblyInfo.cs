@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClickerApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12c312f4e5cbfdf700e5dc02085f0ced7abbf506")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClickerApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClickerApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
