@@ -1,0 +1,4 @@
+C:\Users\Justin\Desktop\Programming Stuff\click\ClickerApp\obj\Debug\net8.0-windows\ClickerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justin\Desktop\Programming Stuff\click\ClickerApp\obj\Debug\net8.0-windows\ClickerApp.AssemblyInfoInputs.cache
+C:\Users\Justin\Desktop\Programming Stuff\click\ClickerApp\obj\Debug\net8.0-windows\ClickerApp.AssemblyInfo.cs
+C:\Users\Justin\Desktop\Programming Stuff\click\ClickerApp\obj\Debug\net8.0-windows\ClickerApp.csproj.CoreCompileInputs.cache
